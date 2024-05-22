@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sahil Patel</h1>
-<h2> A Frontend developer🎯 and designer🎨 from India.</h2>
+<h4> A Frontend developer🎯 and designer🎨 from India.</h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sahil3982&label=Profile%20views&color=0e75b6&style=flat" alt="sahil3982" /> </p>
 
