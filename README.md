@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sahil Patel</h1>
-<h2 align="center">A Frontend Developer</h2>
+<h2 align="center">A 
+  Software Developer</h2>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=sahil3982&label=Profile%20views&color=0e75b6&style=flat" alt="sahil3982" />
