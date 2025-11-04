@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi, I'm Sahil Patel</h1>
-<h3 align="center">🚀 Full Stack Developer | MERN | Go | Next.js | Cloud Enthusiast</h3>
+<h3 align="center">🚀 Full Stack Developer Golang | Next.js</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=sahil3982&label=Profile%20views&color=0e75b6&style=flat" alt="sahil3982" />
@@ -53,10 +53,11 @@
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Stats & Languages
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sahil3982&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sahil3982&theme=tokyonight&hide_border=true" alt="streak" height="160"/>
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahil3982&layout=donut&theme=radical&hide_border=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=sahil3982&show_icons=true&theme=radical&hide_border=true" />
 </p>
 
 ---
