@@ -17,9 +17,6 @@
 
 ### 🌐 Connect With Me
 <p align="center">
-  <a href="https://instagram.com/o_jeet_o" target="_blank">
-    <img src="https://skillicons.dev/icons?i=instagram" height="40" />
-  </a>
   <a href="https://www.hackerrank.com/sahil3982" target="_blank">
     <img src="https://img.shields.io/badge/HackerRank-%232EC866?style=for-the-badge&logo=HackerRank&logoColor=white" />
   </a>
@@ -43,7 +40,7 @@
 #### ⚙️ **Frameworks & Libraries**
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,tailwind" height="45" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/shadcnui/shadcnui-original.svg" height="45" alt="shadcn-ui"/>
+  <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/shadcnui/shadcnui-original.svg" height="45" alt="shadcn-ui"/> -->
 </p>
 
 #### 🧰 **Tools & Platforms**
