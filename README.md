@@ -14,6 +14,15 @@
 📫 Reach me at **sahilpatel3982@gmail.com**
 
 ---
+<p align="center">
+  <a href="https://sahilpatel-dev.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/🚀_Portfolio-Explore_My_Work-brightgreen?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
+  </a>
+</p>
+
+
+
+---
 
 ### 🌐 Connect With Me
 <p align="center"> <a href="https://www.hackerrank.com/sahilpatel3982" target="_blank"> <img src="https://img.shields.io/badge/HackerRank-%232EC866?style=for-the-badge&logo=HackerRank&logoColor=white" /> </a> <a href="https://leetcode.com/sahil3982" target="_blank"> <img src="https://img.shields.io/badge/LeetCode-%23FFA116?style=for-the-badge&logo=LeetCode&logoColor=white" /> </a> </a> <a href="https://github.com/sahil3982" target="_blank"> <img src="https://img.shields.io/badge/GitHub-%2312100E?style=for-the-badge&logo=github&logoColor=white" /> </a> <a href="https://www.linkedin.com/in/sahil3982" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> </p>
